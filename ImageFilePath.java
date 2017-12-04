@@ -10,7 +10,7 @@ import android.provider.DocumentsContract;
 import android.provider.MediaStore;
 
 /**
- * Created by Dilip on 24-11-2017.
+ * Created by Prashant on 24-11-2017.
  */
 
 public class ImageFilePath
